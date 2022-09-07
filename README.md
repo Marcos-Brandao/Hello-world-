@@ -1,2 +1,4 @@
-# Hello world!
- First repository couse of Git and GitHub
+# Hello, world!
+ First Git and GitHub couse repository  
+
+ Repository created during a class  
